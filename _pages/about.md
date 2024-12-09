@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me
 
-I am a researcher in Institute for Intelligent Computing, Alibaba Group. I received my M.S. and B.S. degree from Renmin University of China in 2023 and 2020, respectively, supervised by Professor [Zhewei Wei](https://weizhewei.com/).
+I am a researcher at the Institute for Intelligent Computing, Alibaba Group. I received my M.S. and B.S. degrees from Renmin University of China in 2023 and 2020, respectively, under the supervision of Professor [Zhewei Wei](https://weizhewei.com/).
 
 <span style="color:green">If you have any questions regarding my work or are interested in collaborating with me, please contact me via email. </span>
 
@@ -25,7 +25,7 @@ Wechat: StCarmen
 
 ## Research interests
 
-My interest lies in Streaming algorithms and AI4DB algorithms. At now stage, I focus on intelligent databases (AI4DB) algorithms and systems.
+My interest lies in Streaming algorithms and AI for databases (AI4DB) algorithms.  Currently, my focus is on intelligent databases and their associated algorithms and systems.
 
 ## Publications
 
