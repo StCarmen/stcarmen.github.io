@@ -2,7 +2,7 @@
 title: "Persistent Summaries"
 collection: publications
 permalink: /publications/PersistSMR
-excerpt: ""
+excerpt: "A persistent summaries"
 date: 2022-08-18
 venue: "TODS"
 year: 2022
