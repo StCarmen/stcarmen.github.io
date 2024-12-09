@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kuan Li Homepage"
+title: "Tianjing Zeng Homepage"
 permalink: /
 author_profile: true
 redirect_from:
@@ -14,20 +14,19 @@ redirect_from:
 
 ## About Me
 
-I am currently a PhD student at CSE HKUST under the supervision of Prof. [Minhao Cheng](https://cmhcbb.github.io/) and Prof. [Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I obtained my M.E. degree from Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) supervised by Prof. [Xiang Ao](https://aoxaustin.github.io/index.html), and completed my B.E. degree in Electrical Engineering and Automation at Beihang University.
+I am a researcher in Institute for Intelligent Computing, Alibaba Group. I received my M.S. and B.S. degree from Renmin University of China in 2023 and 2020, respectively, supervised by Professor [Zhewei Wei](https://weizhewei.com/).
 
 <span style="color:green">If you have any questions regarding my work or are interested in collaborating with me, please contact me via email. </span>
 
 ### Contact information
-Email: likuan.ppd@gmail.com
+Email: zengtianjing.ztj@alibaba-inc.com
 
-Wechat: Kuan_ppd
+Wechat: StCarmen
 
 ## Research interests
 
-My interest lies in machine learning on graphs. Now I am working on Graph Adversarial Attack, dynamic graph modeling, and imbalanced node classification.
+My interest lies in Streaming algorithms and AI4DB algorithms. At now stage, I focus on intelligent databases (AI4DB) algorithms and systems.
 
-*Aggregate the knowledge and distill it into intelligence.*
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
