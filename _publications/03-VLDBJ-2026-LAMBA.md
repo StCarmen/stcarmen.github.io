@@ -8,7 +8,7 @@ venue: "VLDBJ"
 year: 2026
 paperurl: ""
 code: ""
-authorlist: "Yingli Zhou, Tianjing Zeng, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, Jingren Zhou"
+authorlist: "Yingli Zhou*, Tianjing Zeng*, Rong Zhu, Yingze Li, Junwei Lan, Zhewei Wei, Yixiang Fang, Bolin Ding, Jingren Zhou"
 status: 'pub'
 ---
 **Abstract:**
